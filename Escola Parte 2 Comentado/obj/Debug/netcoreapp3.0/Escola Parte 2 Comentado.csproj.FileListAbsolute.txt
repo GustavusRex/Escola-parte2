@@ -1,0 +1,11 @@
+C:\Users\Dev4Jobs5\source\repos\Escola Parte 2 Comentado\Escola Parte 2 Comentado\obj\Debug\netcoreapp3.0\Escola Parte 2 Comentado.csprojAssemblyReference.cache
+C:\Users\Dev4Jobs5\source\repos\Escola Parte 2 Comentado\Escola Parte 2 Comentado\obj\Debug\netcoreapp3.0\Escola Parte 2 Comentado.AssemblyInfoInputs.cache
+C:\Users\Dev4Jobs5\source\repos\Escola Parte 2 Comentado\Escola Parte 2 Comentado\obj\Debug\netcoreapp3.0\Escola Parte 2 Comentado.AssemblyInfo.cs
+C:\Users\Dev4Jobs5\source\repos\Escola Parte 2 Comentado\Escola Parte 2 Comentado\bin\Debug\netcoreapp3.0\Escola Parte 2 Comentado.exe
+C:\Users\Dev4Jobs5\source\repos\Escola Parte 2 Comentado\Escola Parte 2 Comentado\bin\Debug\netcoreapp3.0\Escola Parte 2 Comentado.deps.json
+C:\Users\Dev4Jobs5\source\repos\Escola Parte 2 Comentado\Escola Parte 2 Comentado\bin\Debug\netcoreapp3.0\Escola Parte 2 Comentado.runtimeconfig.json
+C:\Users\Dev4Jobs5\source\repos\Escola Parte 2 Comentado\Escola Parte 2 Comentado\bin\Debug\netcoreapp3.0\Escola Parte 2 Comentado.runtimeconfig.dev.json
+C:\Users\Dev4Jobs5\source\repos\Escola Parte 2 Comentado\Escola Parte 2 Comentado\bin\Debug\netcoreapp3.0\Escola Parte 2 Comentado.dll
+C:\Users\Dev4Jobs5\source\repos\Escola Parte 2 Comentado\Escola Parte 2 Comentado\bin\Debug\netcoreapp3.0\Escola Parte 2 Comentado.pdb
+C:\Users\Dev4Jobs5\source\repos\Escola Parte 2 Comentado\Escola Parte 2 Comentado\obj\Debug\netcoreapp3.0\Escola Parte 2 Comentado.dll
+C:\Users\Dev4Jobs5\source\repos\Escola Parte 2 Comentado\Escola Parte 2 Comentado\obj\Debug\netcoreapp3.0\Escola Parte 2 Comentado.pdb
